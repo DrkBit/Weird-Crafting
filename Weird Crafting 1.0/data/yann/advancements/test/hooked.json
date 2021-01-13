@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:fishing_rod"
+    },
+    "title": "Itu Bukan Ikan",
+    "description": "Menggunakan fishing rod ke suatu mob",
+    "frame": "challenge"
+  },
+  "parent": "yann:test/root",
+  "criteria": {
+    "hooked": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_sword"
+    },
+    "title": "Not Quite Lethal",
+    "description": "Memberikan damage ke suatu mob",
+    "background": "minecraft:textures/gui/advvancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "oneHP": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "dealt": 1
+        }
+      }
+    }
+  }
+}
