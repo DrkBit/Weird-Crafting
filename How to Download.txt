@@ -1,0 +1,11 @@
+How to Download
+
+Method 1
+1. Press on the "Weird Crafting.rar"
+2. Press "Download"
+3. If dialog box is appear, Press "Save" or "Ok"
+
+Method 2
+1. On the main menu of the repository, press "Code"
+2. Then click on "Download ZIP"
+4. If dialog box is appear, Press "Save"or "Ok"
